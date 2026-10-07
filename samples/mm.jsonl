@@ -1,0 +1,9 @@
+{"prompt": "这张图是什么颜色？\n回答：", "answer": "红色", "color": "红"}
+{"prompt": "这张图是什么颜色？\n回答：", "answer": "绿色", "color": "绿"}
+{"prompt": "这张图是什么颜色？\n回答：", "answer": "蓝色", "color": "蓝"}
+{"prompt": "这张图左边是什么颜色？\n回答：", "answer": "红色", "layout": "split", "left": "红", "right": "蓝"}
+{"prompt": "这张图右边是什么颜色？\n回答：", "answer": "蓝色", "layout": "split", "left": "红", "right": "蓝"}
+{"prompt": "这张图左边是什么颜色？\n回答：", "answer": "绿色", "layout": "split", "left": "绿", "right": "红"}
+{"prompt": "这张图右边是什么颜色？\n回答：", "answer": "红色", "layout": "split", "left": "绿", "right": "红"}
+{"prompt": "这张图左边是什么颜色？\n回答：", "answer": "蓝色", "layout": "split", "left": "蓝", "right": "绿"}
+{"prompt": "这张图右边是什么颜色？\n回答：", "answer": "绿色", "layout": "split", "left": "蓝", "right": "绿"}

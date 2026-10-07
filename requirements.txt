@@ -1,0 +1,7 @@
+numpy<2
+# 2.11 的 Linux 轮子带 CUDA 13，RTX 5090（sm_120）才能真正计算。
+torch==2.11.0
+datasets==2.21.0
+huggingface_hub==0.24.7
+pillow==10.4.0
+av==12.3.0
